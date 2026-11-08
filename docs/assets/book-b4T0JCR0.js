@@ -1,0 +1,1 @@
+import{r as t}from"./index-dkJL8w7v.js";function n(o){return t.get("/book/list",{params:o})}function r(o){return t.get(`/book/${o}`)}function u(o){return t.post("/book/add",o)}function a(o){return t.put("/book/update",o)}function k(o){return t.delete(`/book/${o}`)}export{r as a,u as b,k as d,n as g,a as u};
