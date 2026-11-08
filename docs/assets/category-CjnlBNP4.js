@@ -1,0 +1,1 @@
+import{r as e}from"./index-Bhsdhtpn.js";function a(){return e.get("/category/list")}function o(t){return e.post("/category/add",t)}function u(t){return e.put("/category/update",t)}function n(t){return e.delete(`/category/${t}`)}export{o as a,n as d,a as g,u};

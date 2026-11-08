@@ -1,0 +1,8 @@
+# 管理端页面目录
+# Login.vue - 管理员登录
+# Dashboard.vue - 控制台
+# BookList.vue - 图书管理
+# BookForm.vue - 图书表单
+# CategoryList.vue - 分类管理
+# UserList.vue - 读者管理
+# BorrowList.vue - 借阅管理
